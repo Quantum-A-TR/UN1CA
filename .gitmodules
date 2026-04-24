@@ -24,5 +24,6 @@
 	ignore = dirty
 [submodule "target/a34x/patches/tee"]
 	path = target/a34x/patches/tee
-	url = https://github.com/UN1CA/target_a34x_patches_tee
+	url = https://github.com/Quantum-A-TR/target_a34x_patches_tee.git
 	ignore = dirty
+
