@@ -58,7 +58,7 @@ jobs:
             firmware: "SM-S711B/EUX/358615311234564"
           - module: "Galaxy Z Fip7 (b7sxxx)"
             device: "b7sxxx"
-            firmware: "SM-F66B/EUX/350798020099664"
+            firmware: "SM-F966B/EUX/350117734722596"
 
     steps:
       - name: Checkout repo
